@@ -6,7 +6,7 @@ from transitleastsquares import transitleastsquares
 
 plt.rcParams['figure.figsize'] = (12, 7)
 
-
+# experimenting with new noise reduction technique
 
 
 # time = array(h5py.File("/Volumes/My Passport/PLATO Project/Simulations/E-S_cont30_1.hdf5")["StarPositions"]["Time"])/(60*60*24)
